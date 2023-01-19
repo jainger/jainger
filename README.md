@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jainger
-- 👀 I’m interested in frontend (Vue, React)
+- 👀 I’m interested in frontend (React, Vue)
 
 <!---
 jainger/jainger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
